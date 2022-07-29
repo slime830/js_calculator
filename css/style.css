@@ -18,6 +18,7 @@ input{
     width:300px;
     background-color: rgba(174, 173, 173, 0.844);
     text-align: right;
+    color: black;
 }
 
 .operator_button{
