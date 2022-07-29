@@ -8,7 +8,7 @@ input{
     width: 65px;
     height: 65px;
     font-size:x-large;
-    
+    -webkit-appearance: none;
 }
 .number_button{
     background-color: #2bdcef;
