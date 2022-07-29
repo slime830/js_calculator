@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+table {
+    margin:auto;
+}
+input{
+    width: 65px;
+    height: 65px;
+    font-size:x-large;
+    
+}
+.number_button{
+    background-color: #2bdcef;
+}
+
+.calculator_display{
+    width:300px;
+    background-color: rgba(174, 173, 173, 0.844);
+    text-align: right;
+}
+
+.operator_button{
+    background-color: rgb(219, 253, 1);
+}
